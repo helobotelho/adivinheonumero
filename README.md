@@ -1,2 +1,2 @@
-# adivinheonumero
-Adivinhe o Número - Projeto em JavaScript para estudo
+## Adivinhe o Número
+### Projeto em JavaScript para estudo
